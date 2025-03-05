@@ -1,0 +1,9 @@
+Welcome to Vim Editor
+This is a text file to practice basic commands in Vim.
+
+You can delete lines using DD.
+You can save and quit using :wq.
+
+This is the third line.
+Let's try more commands!
+Vim is powerful.
