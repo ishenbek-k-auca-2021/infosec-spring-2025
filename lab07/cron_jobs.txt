@@ -1,0 +1,1 @@
+* * * * * /usr/bin/python3 /Users/kanaiym_ishenbek/infosec-spring-2025/lab07/send_mail.py
